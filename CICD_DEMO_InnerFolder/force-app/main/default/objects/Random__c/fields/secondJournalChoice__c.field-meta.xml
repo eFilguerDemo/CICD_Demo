@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>secondJournalChoice__c</fullName>
+    <externalId>false</externalId>
+    <label>secondJournalChoice</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Eat ice cream</fullName>
+                <default>false</default>
+                <label>Eat ice cream</label>
+            </value>
+            <value>
+                <fullName>Give Beans peanut butter</fullName>
+                <default>false</default>
+                <label>Give Beans peanut butter</label>
+            </value>
+            <value>
+                <fullName>Give Beans a bath</fullName>
+                <default>false</default>
+                <label>Give Beans a bath</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
