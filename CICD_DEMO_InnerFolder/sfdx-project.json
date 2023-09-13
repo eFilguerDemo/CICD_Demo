@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "CICD_DEMO_InnerFolder",
+  "namespace": "",
+  "sfdcLoginUrl": "creative-bear-6dj3e9-dev-ed.my.site.com",
+  "sourceApiVersion": "58.0"
+}
